@@ -1,6 +1,6 @@
 # Anonero
 
-Fine-tuning experiments with [Mistral](https://mistral.ai) on book datasets.  
+Fine-tuning experiments with mistral on book datasets.  
 Includes scripts for chunking, preprocessing, and running training with QLoRA.
 
 ## Structure
