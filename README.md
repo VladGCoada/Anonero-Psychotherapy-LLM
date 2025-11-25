@@ -1,6 +1,6 @@
 # Anonero
 
-Fine-tuning experiments with mistral on book datasets.  
+PSYCHOLOGY LLM FULLY WORKING on 10k TOKENS  
 Includes scripts for chunking, preprocessing, and running training with QLoRA.
 
 ## Structure
